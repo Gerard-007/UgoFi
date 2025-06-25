@@ -1,20 +1,12 @@
-# UgoFi
+# 📘 Project Whitepaper Draft
 
-
-UgoFi  is a decentralized peer-to-peer (P2P) crypto remittance platform that enables users to send and receive money across borders using stablecoins, with seamless integration into local mobile money systems like M-Pesa, Airtel Money, and MTN Mobile Money. Built on the Sui blockchain , UgoFi offers fast, secure, and low-cost cross-border transactions by leveraging smart contracts, Sui’s high-performance architecture, and off-chain integrations with mobile wallets. Our mission is to bring financial inclusion to the unbanked and underbanked populations of Africa and beyond through a user-friendly, mobile-first, and compliant solution.
-
-
----
-
-# 📘 Full Whitepaper Draft
-
-## Project Title: **TransFi – Peer-to-Peer Crypto Corridor Platform**
+## Project Title: **UgoFi – Peer-to-Peer Crypto Corridor Platform**
 
 ### 1. Executive Summary
 
-**TransFi** is a decentralized peer-to-peer (P2P) crypto remittance platform that enables users to send and receive money across borders using stablecoins, with seamless integration into local mobile money systems like **M-Pesa**, **Airtel Money**, and **MTN Mobile Money**.
+**UgoFi** is a decentralized peer-to-peer (P2P) crypto remittance platform that enables users to send and receive money across borders using stablecoins, with seamless integration into local mobile money systems like **M-Pesa**, **Airtel Money**, and **MTN Mobile Money**.
 
-Built on the **Sui blockchain**, TransFi offers fast, secure, and low-cost cross-border transactions by leveraging smart contracts, Sui’s high-performance architecture, and off-chain integrations with mobile wallets.
+Built on the **Sui blockchain**, UgoFi offers fast, secure, and low-cost cross-border transactions by leveraging smart contracts, Sui’s high-performance architecture, and off-chain integrations with mobile wallets.
 
 Our mission is to bring financial inclusion to the unbanked and underbanked populations of Africa and beyond through a user-friendly, mobile-first, and compliant solution.
 
@@ -32,7 +24,7 @@ Our mission is to bring financial inclusion to the unbanked and underbanked popu
 
 ### 3. Solution
 
-**TransFi** provides:
+**UgoFi** provides:
 
 - A P2P marketplace where users can buy/sell stablecoins (e.g., USDC, ZAM) using local currencies.
 - Integration with mobile money APIs to enable fiat ↔ crypto conversions.
