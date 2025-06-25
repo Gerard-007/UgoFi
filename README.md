@@ -1,10 +1,8 @@
 # UgoFi
 
----
 
 UgoFi  is a decentralized peer-to-peer (P2P) crypto remittance platform that enables users to send and receive money across borders using stablecoins, with seamless integration into local mobile money systems like M-Pesa, Airtel Money, and MTN Mobile Money. Built on the Sui blockchain , UgoFi offers fast, secure, and low-cost cross-border transactions by leveraging smart contracts, Sui’s high-performance architecture, and off-chain integrations with mobile wallets. Our mission is to bring financial inclusion to the unbanked and underbanked populations of Africa and beyond through a user-friendly, mobile-first, and compliant solution.
 
----
 
 ---
 
